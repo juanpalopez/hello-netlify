@@ -10,7 +10,7 @@ const IndexPage = () => (
     <SEO title="Home" />
     <h1>Hi Netlify</h1>
     <p>Welcome to your new website</p>
-    <p>Now go build something great.</p>
+    <p>We start to make some changes</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
